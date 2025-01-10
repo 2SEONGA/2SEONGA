@@ -59,10 +59,10 @@
   
   <h3 align="center">📫 Contact 📫</h3>
   <div align="center">
-    <a href="https://velog.io/@2seonga">
+    <a align="center" href="https://velog.io/@2seonga">
       <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
     </a>
-    <a href="mailto:2saritaum@gmail.com">
+    <a align="center" href="mailto:2saritaum@gmail.com">
       <img
         src="https://img.shields.io/badge/2saritaum@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
     </a>
