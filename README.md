@@ -1,6 +1,6 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=F2C9E0&height=300&section=header&text=Hello!%I'm%Seonga&&fontColor=FFFFFF&fontSize=60)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=Hello!%I'm%Seonga&&fontColor=ffffff&fontSize=60)
+## Hi there 👋
 
 <!--
 **2SEONGA/2SEONGA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
