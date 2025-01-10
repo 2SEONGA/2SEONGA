@@ -1,7 +1,7 @@
 <header aligin="center">
   <img aligin="center" src="https://capsule-render.vercel.app/api?type=soft&color=FBCAE0&height=120&section=header&text=Hello!%20I'm%20Seonga&fontColor=FFFFFF&fontSize=50&fontAlignY=50&theme=vue"/>
 </header>
-<body>
+<!-- <body>
   <h3 align="center">✨ Tech Stack ✨</h3>
   <div align="center">
     <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
@@ -67,7 +67,7 @@
         src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
     </a>
   </div>
-</body>
+</body> -->
 
 
 <!--
