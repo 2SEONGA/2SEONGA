@@ -1,5 +1,5 @@
 <header aligin="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=FBCAE0&height=120&section=header&text=Hello!%20I'm%20Seonga&fontColor=FFFFFF&fontSize=50&fontAlignY=50&theme=vue"/>
+  <img aligin="center" src="https://capsule-render.vercel.app/api?type=soft&color=FBCAE0&height=120&section=header&text=Hello!%20I'm%20Seonga&fontColor=FFFFFF&fontSize=50&fontAlignY=50&theme=vue"/>
 </header>
 <body>
   <h3 align="center">✨ Tech Stack ✨</h3>
