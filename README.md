@@ -59,8 +59,9 @@
   
   <h3 align="center">📫 Contact 📫</h3>
   <div align="center">
-    <a align="center" href="https://velog.io/@2seonga">
+    <a align="center" href="https://2seonga.github.io/">
       <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+      <img src="https://img.shields.io/badge/githubpages-181717?style=for-the-badge&logo=Github Pages&logoColor=white" />&nbsp
     </a>
     <a align="center" href="mailto:2saritaum@gmail.com">
       <img
