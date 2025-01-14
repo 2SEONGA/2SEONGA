@@ -66,15 +66,10 @@
 
 <h3 align="center">✨ Tech Stack ✨</h3>
   <div align="center">
-    # html5
     <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-    # Python
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />&nbsp
-    # Flask
     <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white" />&nbsp
-    # sql
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
-    # java
   </div>
 
   <br>
