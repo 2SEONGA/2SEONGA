@@ -93,7 +93,7 @@
   
   <div align="center">
     <img src="https://img.shields.io/badge/Colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/swagger-85EA2D.svg?style=for-the-badge&logo=anaconda&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/swagger-85EA2D.svg?style=for-the-badge&logo=anaconda&logoColor=#333" />&nbsp
     <img src="https://img.shields.io/badge/Nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />&nbsp
   </div>
 
