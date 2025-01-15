@@ -85,7 +85,7 @@
   
   <div align="center">
     <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=jupyter&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />&nbsp
     <img src="https://img.shields.io/badge/jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" />&nbsp
   </div>
 
