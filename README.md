@@ -96,7 +96,7 @@
   <h3 align="center">📚 Studying 📚</h3>
     <div align="center">
       <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-      <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp
+      <img src="https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />&nbsp
     </div>
   
   <br>
