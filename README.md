@@ -128,7 +128,7 @@
       <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
     </a>
     <a href="https://2seonga.github.io/">
-      <img src="https://simpleicons.org/?modal=icon&q=githubpages&logo=Github Pages&logoColor=white" />&nbsp
+      <img src="https://simpleicons.org/badge/githubpages-222222&logo=Github Pages&logoColor=white" />&nbsp
     </a>
     <a href="mailto:2saritaum@gmail.com">
       <img src="https://img.shields.io/badge/2saritaum@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp
