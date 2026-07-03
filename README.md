@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&text=2SEONGA&desc=WELCOME2MYWORLD&fontColor=FBCAE0&height=150)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FBCAE0&text=2SEONGA&desc=WELCOME2MYWORLD&fontColor=ffffff&height=200&fontAlignY=40&descAlignY=65)
 <header align="center">
 </header>
 <body>
