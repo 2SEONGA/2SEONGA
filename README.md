@@ -1,130 +1,55 @@
-![header](https://capsule-render.vercel.app/api?type=blur&color=0:1F1F22,100:F2A1C0&text=2SEONGA&desc=WELCOME2MYWORLD&fontColor=FFD9E7&height=300&fontAlignY=40&descAlignY=60)
-<header align="center">
-</header>
-<body>
-<!--   <h3 align="center">✨ Tech Stack ✨</h3>
-  <div align="center">
-    # React
-    <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-    # JavaScript
-    <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-    # html5
-    <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-    #Python
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />&nbsp
-    # Github
-    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-    # Git
-    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  </div>
-  
-  <div align="center">
-    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
-    <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
-  </div>
-  
-  <br>
-  
-  <div align="center">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-    <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp
-  </div>
-  
-  <br>
-  
-  <h3 align="center">📚 Studying 📚</h3>
-    <div align="center">
-      <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-      <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
-      <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
-    </div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:1F1F22,100:F2A1C0&text=2SEONGA&desc=WELCOME2MYWORLD&fontColor=FFD9E7&height=300&fontAlignY=40&descAlignY=60" />
+</div>
+
+<h3 align="center">✨ Tech Stack ✨</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
+</div>
 
 <br>
 
-  <h3 align="center">🛠 Tools 🛠</h3>
-  <div align="center">
-    <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-  </div>
-  
-  <div align="center">
-    <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
-    <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
-  </div>
-  
-  <br>
-  
-  <div align="center">
-    <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
-    <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
-    <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp
-  </div> -->
+<div align="center">
+  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/spring-6DB33Fing&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp
+</div>
 
-<h3 align="center">✨ Tech Stack ✨</h3>
-  <div align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
-  </div>
+<br>
 
-  <br>
+<h3 align="center">📚 Studying 📚</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/react-20232a.react&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/dart-0175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/docker-2496ED=docker&logoColor=white" />&nbsp
+</div>
 
-  <div align="center">
-    <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp
-  </div>
+<br>
 
-  <br>
+<div align="center">
+  <img src="https://img.shields.io/badge/javascript-blogo=javascript&logoColor=F7DF1E" />&nbsp
+  <img src="https://img.shields.io/badge/amazonwebservices-232F3E.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white" />&nbsp
+</div>
 
-  <h3 align="center">📚 Studying 📚</h3>
-  <div align="center">
-    <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-    <img src="https://img.shields.io/badge/dart-0175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
-  </div>
+<br>
 
-  <br>
-  
-  <div align="center">
-    <img src="https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />&nbsp
-    <img src="https://img.shields.io/badge/amazonwebservices-232F3E.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white" />&nbsp
-  </div>
-  
-  <br>
-  
-  <h3 align="center">📫 Contact 📫</h3>
-  <div align="center">
-    <a href="https://velog.io/@2seonga/posts">
-      <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
-    </a>
-    <a href="https://2seonga.github.io/">
-      <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" />&nbsp;
-    </a>
-    <a href="mailto:2saritaum@gmail.com">
-      <img src="https://img.shields.io/badge/2saritaum@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp
-    </a>
-  </div>
+<h3 align="center">📫 Contact 📫</h3>
+<div align="center">
+  <a href="https://velog.io/@2seonga/posts">
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+  </a>
+  <a href="https://2seonga.github.io/">
+    <img src="https://img.shields.io/badge/GitHub%20Pae&logo=githubpages&logoColor=white" />&nbsp
+  </a>
+  <a href="mailto:2saritaum@gmail.com">
+    <img src="https://img.shields.io/badge/2saritaum@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp
+  </a>
+</div>
 
-  ![](./profile-3d-contrib/profile-night-rainbow.svg)
-</body>
+<br>
 
-
-<!--
-**2SEONGA/2SEONGA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow
+</div>
