@@ -51,5 +51,5 @@
 <br>
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow
+  <img src="./profile-3d-contrib/profile-night-rainbow>
 </div>
