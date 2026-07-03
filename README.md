@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:E8547A,50:FF8C94,100:FFAB9A&text=2SEONGA&nbsp;👩🏻‍💻&desc=WELCOME&nbsp;2&nbsp;MY&nbsp;WORLD&fontColor=FFFFFF&height=300&fontAlignY=40&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:E8547A,50:FF8C94,100:FFAB9A&text=2SEONGA&nbsp;👼🏻&desc=WELCOME&nbsp;2&nbsp;MY&nbsp;WORLD&fontColor=FFFFFF&height=300&fontAlignY=40&descAlignY=60" />
 </div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
