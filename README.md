@@ -1,5 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=transparent&text=2SEONGA&desc=WELCOME2MYWORLD&fontColor=FBCAE0&height=150)
 <header align="center">
-    ![header](https://capsule-render.vercel.app/api?type=transparent&text=2SEONGA&desc=WELCOME2MYWORLD&fontColor=FBCAE0&height=150)
 </header>
 <body>
 <!--   <h3 align="center">✨ Tech Stack ✨</h3>
