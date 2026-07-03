@@ -1,5 +1,4 @@
 <header align="center">
-  <img align="center" src="https://capsule-render.vercel.app/api?type=soft&color=FBCAE0&width=10000&height=120&section=header&text=Hello!%20I'm%20Seonga&fontColor=FFFFFF&fontSize=50&fontAlignY=50&theme=vue"/>
   ![header](https://capsule-render.vercel.app/api?type=transparent&color=FBCAE0&text=2SEONGA&desc=WELCOME2MYWORLD)
 </header>
 <body>
