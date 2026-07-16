@@ -53,20 +53,7 @@
 <br>
 <h3 align="center">📊 GitHub Stats 📊</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2seonga&show_icons=true&hide_border=true&title_color=E8547A&icon_color=FF8C94&text_color=FFFFFF&bg_color=00000000" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2seonga&layout=compact&hide_border=true&title_color=E8547A&text_color=FFFFFF&bg_color=00000000" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2seonga&hide_border=true&background=00000000&ring=E8547A&fire=FF8C94&currStreakLabel=FFAB9A&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" />
-</div>
-<br>
-<h3 align="center">🏆 Trophy 🏆</h3>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=2seonga&no-frame=true&margin-w=10&theme=flat&title=E8547A,FF8C94,FFAB9A&rank=FFFFFF&icon=E8547A&border=00000000" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2seonga&hide_border=true&background=00000000&ring=E8547A&fire=FF8C94&currStreakLabel=FFAB9A&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" width="280" />
 </div>
 <br>
 <div align="center">
