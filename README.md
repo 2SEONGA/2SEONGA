@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=blur&color=0:E8547A,50:FF8C94,100:FFAB9A&text=2SEONGA&nbsp;👼🏻&desc=WELCOME&nbsp;2&nbsp;MY&nbsp;WORLD&fontColor=FFFFFF&height=300&fontAlignY=40&descAlignY=60" />
 </div>
 
-<h3 align="center">✨ Tech Stack ✨</h3>
+<h2 align="center">✨ Tech Stack ✨</h2>
   <div align="center">
     <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white" />&nbsp
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />&nbsp
@@ -19,7 +19,7 @@
 
   <br>
 
-<h3 align="center">📚 Studying 📚</h3>
+<h2 align="center">📚 Studying 📚</h2>
   <div align="center">
     <img src="https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />&nbsp
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
@@ -37,7 +37,7 @@
 
   <br>
 
-<h3 align="center">📫 Contact 📫</h3>
+<h2 align="center">📫 Contact 📫</h2>
   <div align="center">
     <a href="https://velog.io/@2seonga/posts">
       <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
@@ -51,7 +51,7 @@
   </div>
 
 <br>
-<h3 align="center">📊 GitHub Stats 📊</h3>
+<h2 align="center">📊 GitHub Stats 📊</h2>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=2seonga&hide_border=true&background=00000000&ring=E8547A&fire=FF8C94&currStreakLabel=FFAB9A&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" width="100%" />
 </div>
