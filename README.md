@@ -53,11 +53,8 @@
 <br>
 <h3 align="center">📊 GitHub Stats 📊</h3>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2seonga&hide_border=true&background=00000000&ring=E8547A&fire=FF8C94&currStreakLabel=FFAB9A&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" width="280" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2seonga&hide_border=true&background=00000000&ring=E8547A&fire=FF8C94&currStreakLabel=FFAB9A&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" width="100%" />
 </div>
 <br>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=2seonga&color=E8547A&style=for-the-badge" />
-</div>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
