@@ -53,7 +53,7 @@
 <br>
 <h2 align="center">📊 GitHub Stats 📊</h2>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2seonga&hide_border=true&background=00000000&ring=E8547A&fire=FF8C94&currStreakLabel=FFAB9A&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2seonga&hide_border=true&background=00000000&ring=E8547A&fire=FF8C94&currStreakLabel=FFAB9A&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" width="50%" />
 </div>
 <br>
 
